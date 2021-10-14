@@ -71,7 +71,7 @@ contract MultiSigWallet {
             
         }
     }
-    
+
     // Allow contract to receive funds 
     // Solidity key word function 
     receive() external payable  {}
