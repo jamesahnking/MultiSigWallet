@@ -1,4 +1,4 @@
-# Multisig Wallet Quorum & Transfer (contracts and tests)
+# Multisig Wallet Quorum & Transfer - Contracts, Migrations, and Tests
 
 ## What type of dapp is this?
 A multi-signature wallet crypto wallet that runs on an Ethereum based blockchain.
